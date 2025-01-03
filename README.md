@@ -1,2 +1,2 @@
 # gitrepo
-This is a study project
+Este é um projeto para estudo
